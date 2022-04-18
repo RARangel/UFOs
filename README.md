@@ -12,7 +12,7 @@ To create a web page on UFO sightings that allows users to filter for multiple c
 
 ## Results: 
 
-To use the wb page - enter any search criteria in a text box on the left.
+To use the web page - enter any search criteria in a text box on the left.
 
 ## Summary: 
 
