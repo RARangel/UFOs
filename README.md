@@ -7,7 +7,7 @@ To create a web page on UFO sightings that allows users to filter for multiple c
 ## Deliverables:
 
 - index.html [file](index.html)
-- app.js [file](Static).
+- app.js [file](https://github.com/RARangel/UFOs/blob/main/static/js/app.js)
 - data.js 
 
 ## Results: 
