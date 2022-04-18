@@ -8,11 +8,11 @@ To create a web page on UFO sightings that allows users to filter for multiple c
 
 - index.html [file](index.html)
 - app.js [file](https://github.com/RARangel/UFOs/blob/main/static/js/app.js)
-- data.js 
+- data.js[file](https://github.com/RARangel/UFOs/blob/main/static/js/data.js)
 
 ## Results: 
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+To use the wb page - enter any search criteria in a text box on the left.
 
 ## Summary: 
 
